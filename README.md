@@ -15,4 +15,4 @@ Resolución de problemas | Pensamiento Crítico y Analítico | Adaptabilidad | T
 
 En en siguiente repositorio de GitHub se encuentran algunos proyestos que elaboré durante mi certificación de Data Analyst:
 
-![GitHub](https://github.com/DeinyACR/Carpeta-de-proyectos-realizados-Data-Analyst.git) 
+![GitHub](https://github.com/DeinyACR/Carpeta-de-proyectos-realizados-Data-Analyst.git)
