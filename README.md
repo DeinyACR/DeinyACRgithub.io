@@ -11,3 +11,7 @@ Con mi formación de Data Analyst he adquirido conocimientos en Python, SQL y Ta
 ## Habilidades blandas 
 Resolución de problemas | Pensamiento Crítico y Analítico | Adaptabilidad | Toma de desiciones | Creatividad | Trabajo en Equipo | Comunicación Asertiva
 
+## Proyectos realizados 
+
+En en siguiente repositorio de GitHub se encuentran algunos proyestos que elaboré durante mi certificación de Data Analyst:
+https://github.com/DeinyACR/Carpeta-de-proyectos-realizados-Data-Analyst 
